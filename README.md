@@ -62,7 +62,9 @@ _data detailnya harap ganti dengan data sendiri._
 
 ## FAQ:
 
-- Deadline nya kapan? seperti biasa, pada pertemuan berikutnya akan di perlihatkan 1 per 1
+- Deadline nya kapan? **seperti biasa, pada pertemuan berikutnya akan di perlihatkan 1 per 1**
+- Jadi ini nanti dibikin berapa project/aplikasi? **Dibuat 3 aplikasi/project ya. jadi nanti akan ada 3 aplikasi yang akan di show/dipresentasikan**
+- Individu atau kelompok? **Sepertinya saat ini masih individu**
 - Kalau ada pertanyaan boleh langsung di grup saja ya, mungkin ada teman teman lainnya yang memiliki pertanyaan serupa atau ada dosen dan teman lain yang bisa membantu untuk jawab pertanyaan yang anda ajukan.
 
 ---
@@ -71,6 +73,6 @@ Dokumentasi Tugas:
 ![SC 1](assets/dok%20tugas%201.jpeg)
 ![SC 2](assets/dok%20tugas%202.jpeg)
 
-_Kalo liat nya aga pusing, maka dari itu recap ini ada_
+_Kalo liat nya aga pusing, maka dari itu recap ini ada._
 
 ![bye](https://media.tenor.com/wJ1f-nu2nggAAAAi/wave-bye.gif)
